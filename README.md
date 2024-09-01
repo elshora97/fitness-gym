@@ -1,6 +1,6 @@
 # Fitness-Gym
 
-A responsive and modern landing page for a gym, built using React, TypeScript, and Tailwind CSS. This project showcases the gym's services, fitness programs, and membership options, providing users with an engaging and seamless experience across all devices.
+A sleek and responsive landing page for a gym, built with React, TypeScript, and Tailwind CSS. The page effectively showcases gym services, benefits, and classes, providing a clean and engaging user experience across all devices.
 
 ## Features
 
