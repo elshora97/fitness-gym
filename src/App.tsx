@@ -28,7 +28,9 @@ function App() {
         setSelectedPage={setSelectedPage}
         isTopOfPage={isTopOfPage}
       />
-      <Home />
+      <Home 
+        setSelectedPage={setSelectedPage}
+        />
     </div>
   );
 }
